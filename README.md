@@ -8,7 +8,7 @@
 ![Sound Controlled Aliens Demo](images/sca.png)
 
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://shikha246.github.io/Sound-Control-Web-App/)
 
 ## Features
 - Real-time sound recognition using machine learning
