@@ -5,7 +5,9 @@
 
 ## Demo
 
-![Sound Controlled Aliens Demo](./path-to-image.png)
+![Sound Controlled Aliens Demo](images/sca.png)
+
+
 [Live Demo](https://your-demo-link.com)
 
 ## Features
